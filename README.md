@@ -94,7 +94,7 @@ Cesar Montiel (Zenthor)
 ## ⭐ ¿Te gusta el proyecto?
 Déjale una ⭐ estrella al repositorio
 
-Sígueme para más proyectos futuros
+Sígueme para más proyectos futuros!
 
 Comparte Draconix con la comunidad
 
