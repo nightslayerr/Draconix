@@ -78,7 +78,7 @@ Puedes:
 
 - Abrir un issue con sugerencias o errores
 - Crear un PR (Pull Request) con nuevas funciones o fixes (sigue el estilo modular del proyecto.)
-- Compartir el proyecto para que crezca la comunidad
+- Compartir el proyecto para que crezca la comunidad!
 
 ## 📜 Licencia
 Este proyecto está licenciado bajo la MIT License.
